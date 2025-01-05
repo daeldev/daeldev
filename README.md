@@ -11,13 +11,14 @@ Estou pronto para abraçar novas oportunidades, aprender e contribuir com dedica
   <h3>Ferramentas e Frameworks FrontEnd</h3>
   <img src ="https://skillicons.dev/icons?i=js,html,css"/>
   <h3>Ferramentas e Frameworks Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postman"/>
   <h3>IDEs e Editores de Texto</h3>
   <img src="https://skillicons.dev/icons?i=idea,vscode"/>
-  <h3>Databases</h3>
+  <img src="[https://skillicons.dev/icons?i=idea,vscode](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png)"/>
+  <h3>Banco de dados</h3>
   <img src = "https://skillicons.dev/icons?i=mysql"/>
   <h3>Ferramentas de Versionamento</h3>
-  <img src = "https://skillicons.dev/icons?i=git"/>
+  <img src = "https://skillicons.dev/icons?i=git,github"/>
 </p>
 
 📊 Estatísticas do GitHub
