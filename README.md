@@ -30,15 +30,15 @@ Estou pronto para abraçar novas oportunidades, aprender e contribuir com dedica
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src ="https://skillicons.dev/icons?i=js" title="JavaScript"/>
-    <img src ="https://skillicons.dev/icons?i=html" title="HTML"/>
-    <img src ="https://skillicons.dev/icons?i=css" title="CSS"/>
     <img src="https://skillicons.dev/icons?i=java" title="Java"/>
     <img src="https://skillicons.dev/icons?i=spring" title="Spring Framework"/>
     <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+    <img src ="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+    <img src ="https://skillicons.dev/icons?i=html" title="HTML"/>
+    <img src ="https://skillicons.dev/icons?i=css" title="CSS"/>
+    <img src = "https://skillicons.dev/icons?i=mysql" title="MySQL"/>
     <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
     <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
-    <img src = "https://skillicons.dev/icons?i=mysql" title="MySQL"/>
     <img src = "https://skillicons.dev/icons?i=git" title="Git"/>
 </div>
 
@@ -54,21 +54,12 @@ Estou pronto para abraçar novas oportunidades, aprender e contribuir com dedica
 
 <hr/>
   <h2 align="center">⚡ Status ⚡</h2>
-  <br>
-  <div align=center>
-    <img width=390 src="https://github-readme-streak-stats-daeldev.vercel.app/?user=daeldev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width=390 src="https://github-readme-stats-daeldev.vercel.app/api?username=daeldev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-    alt="readme stats" />
-    <br/>
-    <img width=325 align="center" src="https://github-readme-stats-daeldev.vercel.app/api/top-langs/ 
-    username=daeldev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </div>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=daeldev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeldev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
   <br/><br/>
 <hr/>
 <br/>
-
-📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daeldev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeldev&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas"/>
-</div>
