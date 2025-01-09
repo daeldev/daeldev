@@ -27,40 +27,38 @@ Estou pronto para abraçar novas oportunidades, aprender e contribuir com dedica
 
  <hr/>
  
-<h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java" title="Java"/>
-    <img src="https://skillicons.dev/icons?i=spring" title="Spring Framework"/>
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-    <img src ="https://skillicons.dev/icons?i=js" title="JavaScript"/>
-    <img src ="https://skillicons.dev/icons?i=html" title="HTML"/>
-    <img src ="https://skillicons.dev/icons?i=css" title="CSS"/>
-    <img src = "https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-    <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
-    <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
-    <img src="https://github.com/user-attachments/assets/d252c929-411f-4b84-87ee-9ffdda5e6386" title="NetBeans" width="55"/>
-    <img src = "https://skillicons.dev/icons?i=git" title="Git"/>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daeldev/daeldev/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-  <h2 align="center">⚡ Status ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=daeldev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<details open>
+  <summary>⚒️ Linguagens e Ferramentas ⚒️</summary>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeldev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-  <br/><br/>
-<hr/>
-<br/>
+  <div align="center">
+      <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+      <img src="https://skillicons.dev/icons?i=spring" title="Spring Framework"/>
+      <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+      <img src ="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+      <img src ="https://skillicons.dev/icons?i=html" title="HTML"/>
+      <img src ="https://skillicons.dev/icons?i=css" title="CSS"/>
+      <img src = "https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+      <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
+      <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
+      <img src="https://github.com/user-attachments/assets/d252c929-411f-4b84-87ee-9ffdda5e6386" title="NetBeans" width="55"/>
+      <img src = "https://skillicons.dev/icons?i=git" title="Git"/>
+  </div>
+</details>
+
+<details open>
+  <summary>🐍 Minhas Contribuições 🐍</summary>
+  <br/>
+  <div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daeldev/daeldev/output/github-contribution-grid-snake.svg" />
+  </div>
+</details>
+
+<details open>
+  <summary>⚡ Status ⚡</summary>
+  <br/>
+  <div align=center>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=daeldev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeldev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
+</details>
