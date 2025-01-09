@@ -39,6 +39,7 @@ Estou pronto para abraçar novas oportunidades, aprender e contribuir com dedica
     <img src = "https://skillicons.dev/icons?i=mysql" title="MySQL"/>
     <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
     <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
+    <img src="https://github.com/user-attachments/assets/d252c929-411f-4b84-87ee-9ffdda5e6386" title="NetBeans" width="55"/>
     <img src = "https://skillicons.dev/icons?i=git" title="Git"/>
 </div>
 
