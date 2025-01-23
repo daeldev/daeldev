@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-👋Sou Técnico em Informática formado pela FAETEC, com experiência em tecnologias como Java, Spring Boot, MySQL, HTML/CSS e JavaScript. Estou em busca da minha primeira oportunidade profissional, seja como jovem aprendiz, estagiário ou em um trabalho efetivo.
+👋Sou Técnico em TI formado pela FAETEC, com experiência em tecnologias como Java, Spring Boot, MySQL, HTML/CSS e JavaScript. Estou em busca da minha primeira oportunidade profissional, seja como jovem aprendiz, estagiário ou em um trabalho efetivo.
 
 Me considero autodidata, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Estou determinado a crescer profissionalmente e contribuir para projetos inovadores.
 
