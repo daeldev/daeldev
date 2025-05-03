@@ -11,7 +11,7 @@
 <div align="center">
 Olá! 👋
 
-Sou Técnico em Informática formado pela FAETEC, com experiência prática em desenvolvimento Full-Stack. Durante minha formação, participei de projetos que envolveram a criação de APIs RESTful utilizando Java e Spring Boot, com integração ao banco de dados MySQL. Utilizei ferramentas como Docker para gerenciamento de ambientes e Postman para testes de APIs, além de documentar os endpoints com Swagger.
+Sou Técnico em Informática formado pela FAETEC, com experiência prática em desenvolvimento Full-Stack. Durante minha formação, participei de projetos que envolveram a criação de APIs RESTful utilizando Java e Spring Boot, com integração ao banco de dados MySQL. Utilizo ferramentas como Docker para gerenciamento de ambientes e Postman para testes de APIs, além de documentar os endpoints com Swagger.
 
 Tenho conhecimentos em HTML, CSS e JavaScript, e estou familiarizado com práticas de CI/CD e controle de versão com Git e GitHub. Valorizo a aplicação de clean code e testes automatizados para garantir a qualidade e escalabilidade das soluções desenvolvidas.
 </div>
