@@ -9,11 +9,11 @@
 <br/>
 
 <div align="center">
-👋Sou Técnico em TI formado pela FAETEC, com experiência em tecnologias como Java, Spring Boot, MySQL, HTML/CSS e JavaScript. Estou em busca da minha primeira oportunidade profissional, seja como jovem aprendiz, estagiário ou em um trabalho efetivo.
+Olá! 👋
 
-Me considero autodidata, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Estou determinado a crescer profissionalmente e contribuir para projetos inovadores.
+Sou Técnico em Informática formado pela FAETEC, com experiência prática em desenvolvimento Full-Stack. Durante minha formação, participei de projetos que envolveram a criação de APIs RESTful utilizando Java e Spring Boot, com integração ao banco de dados MySQL. Utilizei ferramentas como Docker para gerenciamento de ambientes e Postman para testes de APIs, além de documentar os endpoints com Swagger.
 
-Estou pronto para abraçar novas oportunidades, aprender e contribuir com dedicação.
+Tenho conhecimentos em HTML, CSS e JavaScript, e estou familiarizado com práticas de CI/CD e controle de versão com Git e GitHub. Valorizo a aplicação de clean code e testes automatizados para garantir a qualidade e escalabilidade das soluções desenvolvidas.
 </div>
  
 <div align="center"> 
