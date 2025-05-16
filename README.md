@@ -27,7 +27,6 @@
 ### &nbsp;Banco de dados
 <p height="">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height=30, title="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=30, title="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white" height=30, title="SAP HANA"/>
 </p>
 
