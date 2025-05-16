@@ -42,6 +42,11 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height=30, title="Visual Studio Code"/>
 </p>
 
+# ⚙️ &nbsp;GitHub Analytics
+
+[<img src="https://github-readme-stats.vercel.app/api?username=daeldev&theme=github_dark&locale=pt-br&count_private=true" height=160>](https://github.com/daeldev)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeldev&layout=compact&theme=github_dark&locale=pt-br" height=160>](https://github.com/daeldev)
+
 # 📫 &nbsp;Onde me encontrar
 <p>
   <a href="https://github.com/daeldev" target="_blank">
