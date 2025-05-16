@@ -7,20 +7,41 @@
 # 🛠 &nbsp;Tech Stack
 
 ### &nbsp;Front-end
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<p height="">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30/>
+</p>
 
 ### &nbsp;Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,kotlin,php,spring,dotnet)](https://skillicons.dev)
+<p height="">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height=30/>
+</p>
 
 ### &nbsp;Banco de dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+<p height="">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white" height=30/>
+</p>
 
 ### &nbsp;Ferramentas e Tecnologias
-
-[![My Skills](https://skillicons.dev/icons?i=github,git,docker,vscode,eclipse,idea,androidstudio)](https://skillicons.dev)
-<img src="https://github.com/user-attachments/assets/d252c929-411f-4b84-87ee-9ffdda5e6386" title="NetBeans" width="55"/>
+<p height="">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" height=30/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height=30/>
+</p>
 
 # ⚙️ &nbsp;GitHub Analytics
 
@@ -30,13 +51,13 @@
 # 📫 &nbsp;Onde me encontrar
 <p>
   <a href="https://github.com/daeldev" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="30"/>
   </a> 
   <a href="https://linkedin.com/in/daeldev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"/>
   </a>
   <a href="mailto:danielalmeida41263@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="30"/>
   </a>
 </p>
 
@@ -44,8 +65,3 @@
 <p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daeldev/daeldev/output/github-contribution-grid-snake.svg" />
 </p>
-
-<br/>
-  <div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daeldev/daeldev/output/github-contribution-grid-snake.svg" />
-  </div>
