@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height=30, , title="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" height=30, title="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height=30, title="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" height=30, title="Postman"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" height=30, title="IntelliJ IDE"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" height=30, title="Android Studio"/>
   <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white" height=30, title="Apache NetBeans IDE"/>
