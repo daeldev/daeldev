@@ -44,3 +44,8 @@
 <p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daeldev/daeldev/output/github-contribution-grid-snake.svg" />
 </p>
+
+<br/>
+  <div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daeldev/daeldev/output/github-contribution-grid-snake.svg" />
+  </div>
