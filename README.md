@@ -24,8 +24,8 @@
 
 # ⚙️ &nbsp;GitHub Analytics
 
-[<img src="https://github-readme-stats.vercel.app/api?username=daeldev&theme=github_dark&locale=pt-br&count_private=true" height=180>](https://github.com/daeldev)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeldev&layout=compact&theme=github_dark&locale=pt-br" height=180>](https://github.com/daeldev)
+[<img src="https://github-readme-stats.vercel.app/api?username=daeldev&theme=github_dark&locale=pt-br&count_private=true" height=160>](https://github.com/daeldev)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeldev&layout=compact&theme=github_dark&locale=pt-br" height=160>](https://github.com/daeldev)
 
 # 📫 &nbsp;Onde me encontrar
 <p>
