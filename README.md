@@ -1,6 +1,6 @@
 # 👋 &nbsp;Olá, me chamo Daniel
 
-- 💼 Desenvolvedor full stack;
+- 💼 Desenvolvedor back end;
 - 🌐 Stack Principal: Java e Spring Framework;
 - 🚀 Experiência em desenvolvimento web, desktop e mobile.
 
@@ -47,16 +47,8 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height=30, title="Visual Studio Code"/>
 </p>
 
-# ⚙️ &nbsp;GitHub Analytics
-
-[<img src="https://github-readme-stats.vercel.app/api?username=daeldev&theme=github_dark&locale=pt-br&count_private=true" height=160>](https://github.com/daeldev)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeldev&layout=compact&theme=github_dark&locale=pt-br" height=160>](https://github.com/daeldev)
-
 # 📫 &nbsp;Onde me encontrar
 <p>
-  <a href="https://github.com/daeldev" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="30", title="GitHub"/>
-  </a> 
   <a href="https://linkedin.com/in/daeldev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30", title="LinkedIn"/>
   </a>
