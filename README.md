@@ -1,63 +1,77 @@
-# 👋 &nbsp;Olá, me chamo Daniel
+# 👋 Olá, me chamo Daniel
 
-- 💼 Desenvolvedor back end;
-- 🌐 Stack Principal: Java e Spring Framework;
-- 🚀 Experiência em desenvolvimento web, desktop e mobile.
+💼 **Backend Developer | Java, Spring Boot e Kotlin**
 
-# 🛠 &nbsp;Tech Stack
+Tenho experiência com desenvolvimento de aplicações backend e projetos em diferentes contextos, utilizando tecnologias como Java, Spring Boot, Kotlin, C#, PHP, bancos de dados relacionais e ferramentas do ecossistema de desenvolvimento web.
 
-### &nbsp;Desenvolvimento Front-end
-<p height="">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white", height=30, title="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=30, title="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30, title="JavaScript"/>
+Também possuo experiência com projetos desktop e web, além de conhecimentos em frontend e práticas de desenvolvimento de software.
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="30" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="30" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="PHP"/>
 </p>
 
-### &nbsp;Desenvolvimento Back-end
+### Banco de dados
 
-<p height="">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height=30, title="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height=30, title="C#"/>
-  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" height=30, title="Kotlin"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height=30, title="PHP"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" height=30, title="Spring Framework"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height=30, title=".NET"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white" height=30, title="Hibernate"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL"/>
 </p>
 
-### &nbsp;Banco de dados
-<p height="">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height=30, title="MySQL"/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white" height=30, title="SAP HANA"/>
+### Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="JavaScript"/>
 </p>
 
-### &nbsp;Ferramentas e Tecnologias
-<p height="">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height=30, , title="GitHub"/>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" height=30, title="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height=30, title="Docker"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" height=30, title="Swagger"/>
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white" height=30, title="Apache Maven"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" height=30, title="Postman"/>
-  <img src="https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black" height=30, title="UML"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" height=30, title="IntelliJ IDE"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" height=30, title="Android Studio"/>
-  <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white" height=30, title="Apache NetBeans IDE"/>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" height=30, title="Eclipse IDE"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height=30, title="Visual Studio Code"/>
+### Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="30" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="30" alt="Swagger"/>
 </p>
 
-# 📫 &nbsp;Onde me encontrar
-<p>
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=daeldev&theme=tokyo-night&hide_border=true&area=true"
+    alt="Gráfico de atividade e commits no GitHub"
+  />
+</p>
+
+---
+
+## 📫 Onde me encontrar
+
+<p align="left">
   <a href="https://linkedin.com/in/daeldev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30", title="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="30"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="mailto:danielalmeida41263@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="30", title="Gmail"/>
+  <a href="mailto:danielalmeida41263@gmail.com">
+    <img
+      src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white"
+      height="30"
+      alt="E-mail"
+    />
   </a>
-</p>
-
-# 🐍  &nbsp;Minhas Contribuições
-<p>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daeldev/daeldev/output/github-contribution-grid-snake.svg" />
 </p>
