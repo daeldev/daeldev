@@ -46,17 +46,6 @@ Também possuo experiência com projetos desktop e web, além de conhecimentos e
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=daeldev&theme=tokyo-night&hide_border=true&area=true"
-    alt="Gráfico de atividade e commits no GitHub"
-  />
-</p>
-
----
-
 ## 📫 Onde me encontrar
 
 <p align="left">
